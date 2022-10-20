@@ -15,6 +15,7 @@ This application lets you keep track of a store databse and what is currently is
 
 ## Visuals
 ![E-Commerce-Tracker](/images/Screen%20Shot%202022-10-17%20at%2011.23.26%20PM.png)
+![E-Commerce-Video](https://user-images.githubusercontent.com/108596767/196994894-193ac791-0af1-4f5c-9a5b-7f21a67e94d9.mp4)
       
 ## Installation
 Before using the application do a npm install. Make sure you seed your data by running npm run seed. To start up the server you can type nodemon in the terminal and it will run on localhost 3001. Insomnia is needed for this to work. 
@@ -24,6 +25,8 @@ This application is used to store inventory data and track it's information.
       
 ## License
 MIT License
+
+
 
 Copyright (c) [2022] [E-Commerce-Tracker]
 
