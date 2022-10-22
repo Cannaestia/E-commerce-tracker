@@ -14,7 +14,6 @@
 This application lets you keep track of a store databse and what is currently is in stock, it's price and category it belongs to. 
 
 ## Visuals
-![E-Commerce-Tracker-video]()
 
 
 https://user-images.githubusercontent.com/108596767/197364452-09a2fc97-1ac0-4391-9c6c-15dd73bf57dc.mp4
