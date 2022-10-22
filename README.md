@@ -14,8 +14,12 @@
 This application lets you keep track of a store databse and what is currently is in stock, it's price and category it belongs to. 
 
 ## Visuals
-![E-Commerce-Tracker-video](https://user-images.githubusercontent.com/108596767/197364326-72d48e60-0a66-4956-8a2d-fc2d3d705123.mp4)
-![E-Commerce-Tracker](/images/Screen%20Shot%202022-10-17%20at%2011.23.26%20PM.png)
+![E-Commerce-Tracker-video]()
+
+
+https://user-images.githubusercontent.com/108596767/197364452-09a2fc97-1ac0-4391-9c6c-15dd73bf57dc.mp4
+
+
       
 ## Installation
 Before using the application do a npm install. Make sure you seed your data by running npm run seed. To start up the server you can type nodemon in the terminal and it will run on localhost 3001. Insomnia is needed for this to work. 
